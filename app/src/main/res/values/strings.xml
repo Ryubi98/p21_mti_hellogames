@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hello Games</string>
+
+    <string name="game1">Game 1</string>
+    <string name="game2">Game 2</string>
+    <string name="game3">Game 3</string>
+    <string name="game4">Game 4</string>
+
+    <string name="game">Game</string>
+    <string name="name">Name:</string>
+    <string name="type">Type:</string>
+    <string name="nb_players">Nb players:</string>
+    <string name="year">Year:</string>
+    <string name="info">Game Info</string>
+    <string name="more">Do you want to know more ?</string>
+</resources>
