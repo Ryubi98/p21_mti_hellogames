@@ -25,6 +25,7 @@ class MainFragment : Fragment() {
         newFragment.arguments = dataBundle
         fragmentManager!!.beginTransaction()
             .replace(R.id.main_container, newFragment)
+            .addToBackStack(null)
             .commit()
     }
 
